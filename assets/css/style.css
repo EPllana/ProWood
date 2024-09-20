@@ -909,6 +909,8 @@ h1{
    }
    .stay{
     margin-bottom: 60px;
+    padding-left: 15px;
+    padding-right: 15px;
    }
    .gallery{
         flex-wrap: wrap;
@@ -1191,6 +1193,8 @@ h1{
     }
     .contact-item{
         margin: 0px 0px;
+        padding-right: 20px;
+        padding-left: 20px;
     }
     .footer-main {
         max-width: 1400px;
@@ -1221,6 +1225,9 @@ h1{
     .footer-column ul li{
         font-size: 12px;
     }
+    .clock h2{
+        font-size: 28px;
+       }
 }
 
 
